@@ -26,3 +26,19 @@
 *[Электрика]: electrical
 *[культист хаска]: huskcultist
 *[Путь к Вознесению]: waytoascension
+*[Налоксон]: antinarc
+*[налоксон]: antinarc
+*[налоксан]: antinarc
+*[налоксона]: antinarc
+*[налоксана]: antinarc
+*[налоксаном]: antinarc
+*[Механике]: mechanical
+*[Механику]: mechanical
+*[Механики]: mechanical
+*[Оружие]: weapons
+*[Оружии]: weapons
+*[Оружия]: weapons
+*[Медицине]: medical
+*[Медицину]: medical
+*[Управления]: helm
+*[этанола]: ethanol
