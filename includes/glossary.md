@@ -42,3 +42,39 @@
 *[Медицину]: medical
 *[Управления]: helm
 *[этанола]: ethanol
+*[Сигара]: cigar
+*[сигара]: cigar
+*[Сигару]: cigar
+*[сигару]: cigar
+*[сигары]: cigar
+*[Отвертка]: screwdriver
+*[отвёртка]: screwdriver
+*[отвёртки]: screwdriver
+*[отвёрткой]: screwdriver
+*[отвёртку]: screwdriver
+*[Фонарик]: flashlight
+*[фонарик]: flashlight
+*[фонарика]: flashlight
+*[грязевой раптор]: mudraptor
+*[грязевых раптора]: mudraptor
+*[рапторов]: mudraptor
+*[рапторы]: mudraptor
+*[Инопланетная безделушка]: alientrinket1
+*[Инопланетную безделушку]: alientrinket1
+*[безделушка]: alientrinket1
+*[безделушку]: alientrinket1
+*[безделушки]: alientrinket1
+*[Галоперидол]: antipsychosis
+*[Галоперидола]: antipsychosis
+*[галоперидол]: antipsychosis
+*[галоперидолом]: antipsychosis
+*[дементонит]: dementonite
+*[дементонита]: dementonite
+*[дементониты]: dementonite
+*[психоз]: psychosis
+*[психоза]: psychosis
+*[галлюцинации]: hallucinating
+*[галлюцинаций]: hallucinating
+*[ожог]: burn
+*[рваная рана]: lacerations
+*[оглушение]: stun
