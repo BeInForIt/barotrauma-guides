@@ -1,0 +1,44 @@
+site_name: Гайды по Barotrauma
+site_description: Разборы событий, миссий и механик Barotrauma по коду игры
+site_url: https://beinforit.github.io/barotrauma-guides/
+site_author: HoppinHauler
+repo_url: https://github.com/BeInForIt/barotrauma-guides
+edit_uri: ""
+
+theme:
+  name: material
+  language: ru
+  features:
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Тёмная тема
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Светлая тема
+
+markdown_extensions:
+  - tables
+  - md_in_html
+  - toc:
+      permalink: true
+
+plugins:
+  - search:
+      lang: ru
+
+nav:
+  - Начало: index.md
+  - События аванпостов: outpost-events/index.md
+  - Механика событий: events-mechanics/index.md
+  - Указатель событий: events-index/index.md
