@@ -34,6 +34,10 @@ markdown_extensions:
   - tables
   - md_in_html
   - attr_list
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - includes/glossary.md
   - toc:
       permalink: true
       slugify: !!python/name:pymdownx.slugs.uslugify
