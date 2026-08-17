@@ -13,7 +13,6 @@
 *[кальцием]: calcium
 *[кальций]: calcium
 *[Револьвер]: revolver
-*[револьвер]: revolver
 *[патрона револьвера]: revolverround
 *[гаечный ключ]: wrench
 *[Гаечные ключи]: wrench
@@ -27,7 +26,6 @@
 *[культист хаска]: huskcultist
 *[Путь к Вознесению]: waytoascension
 *[Налоксон]: antinarc
-*[налоксон]: antinarc
 *[налоксан]: antinarc
 *[налоксона]: antinarc
 *[налоксана]: antinarc
@@ -43,9 +41,7 @@
 *[Управления]: helm
 *[этанола]: ethanol
 *[Сигара]: cigar
-*[сигара]: cigar
 *[Сигару]: cigar
-*[сигару]: cigar
 *[сигары]: cigar
 *[Отвертка]: screwdriver
 *[отвёртка]: screwdriver
@@ -53,7 +49,6 @@
 *[отвёрткой]: screwdriver
 *[отвёртку]: screwdriver
 *[Фонарик]: flashlight
-*[фонарик]: flashlight
 *[фонарика]: flashlight
 *[грязевой раптор]: mudraptor
 *[грязевых раптора]: mudraptor
@@ -66,7 +61,6 @@
 *[безделушки]: alientrinket1
 *[Галоперидол]: antipsychosis
 *[Галоперидола]: antipsychosis
-*[галоперидол]: antipsychosis
 *[галоперидолом]: antipsychosis
 *[дементонит]: dementonite
 *[дементонита]: dementonite
@@ -86,7 +80,6 @@
 *[Красный провод]: redwire
 *[Красным проводом]: redwire
 *[Медь]: copper
-*[медь]: copper
 *[Схема на базе ППВМ]: fpgacircuit
 *[схему]: fpgacircuit
 *[Ящика с боеприпасами для магнитной пушки]: coilgunammobox
@@ -107,3 +100,16 @@
 *[ползуна]: crawler
 *[ползуны]: crawler
 *[алюминий]: aluminium
+*[защитный бот]: defensebot
+*[Защитный бот]: defensebot
+*[стабилоцина]: stabilozine
+*[Медицины]: medical
+*[Механикой]: mechanical
+*[Управлением]: helm
+*[револьвер]: revolver
+*[налоксон]: antinarc
+*[сигара]: cigar
+*[сигару]: cigar
+*[фонарик]: flashlight
+*[галоперидол]: antipsychosis
+*[медь]: copper
