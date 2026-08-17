@@ -51,5 +51,5 @@ nav:
   - Гайды:
       - События аванпостов: outpost-events/index.md
   - Справочное:
-      - Механика событий: events-mechanics/index.md
+      - Как работают события: events-mechanics/index.md
       - Указатель событий: events-index/index.md
