@@ -9,6 +9,8 @@ theme:
   name: material
   language: ru
   features:
+    - navigation.tabs
+    - navigation.sections
     - navigation.top
     - navigation.tracking
     - toc.follow
@@ -39,6 +41,8 @@ plugins:
 
 nav:
   - Начало: index.md
-  - События аванпостов: outpost-events/index.md
-  - Механика событий: events-mechanics/index.md
-  - Указатель событий: events-index/index.md
+  - Гайды:
+      - События аванпостов: outpost-events/index.md
+  - Справочное:
+      - Механика событий: events-mechanics/index.md
+      - Указатель событий: events-index/index.md
