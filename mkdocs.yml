@@ -11,6 +11,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - content.tooltips
     - navigation.top
     - navigation.tracking
     - toc.follow
@@ -32,8 +33,10 @@ theme:
 markdown_extensions:
   - tables
   - md_in_html
+  - attr_list
   - toc:
       permalink: true
+      slugify: !!python/name:pymdownx.slugs.uslugify
 
 plugins:
   - search:
