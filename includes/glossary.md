@@ -77,4 +77,33 @@
 *[галлюцинаций]: hallucinating
 *[ожог]: burn
 *[рваная рана]: lacerations
+*[рваные раны]: lacerations
 *[оглушение]: stun
+*[Гиперцин]: hyperzine
+*[Анаболические стероиды]: steroids
+*[Серную кислоту]: sulphuricacid
+*[Серная кислота]: sulphuricacid
+*[Красный провод]: redwire
+*[Красным проводом]: redwire
+*[Медь]: copper
+*[медь]: copper
+*[Схема на базе ППВМ]: fpgacircuit
+*[схему]: fpgacircuit
+*[Ящика с боеприпасами для магнитной пушки]: coilgunammobox
+*[Ящики с боеприпасами для магнитной пушки]: coilgunammobox
+*[ящик]: coilgunammobox
+*[Древнее оружие]: ancientweapon
+*[Древнего оружия]: ancientweapon
+*[Электрике]: electrical
+*[Электрики]: electrical
+*[Электрику]: electrical
+*[повреждение органа]: organdamage
+*[внутренняя травма]: internaldamage
+*[сильный ушиб]: blunttrauma
+*[укусы]: bitewounds
+*[огнестрельная рана]: gunshotwound
+*[повреждение глубоких тканей]: explosiondamage
+*[ползун]: crawler
+*[ползуна]: crawler
+*[ползуны]: crawler
+*[алюминий]: aluminium
