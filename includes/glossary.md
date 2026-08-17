@@ -113,3 +113,12 @@
 *[фонарик]: flashlight
 *[галоперидол]: antipsychosis
 *[медь]: copper
+*[Холодные пещеры]: coldcaverns
+*[Европейский кряж]: europanridge
+*[Темное плато]: theaphoticplateau
+*[Великое море]: thegreatsea
+*[Гидротермальные пустоши]: hydrothermalwastes
+*[зачинщик]: isinstigator
+*[зачинщика]: isinstigator
+*[зачинщиком]: isinstigator
+*[зачинщиками]: isinstigator
