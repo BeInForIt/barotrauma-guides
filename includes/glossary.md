@@ -2,9 +2,9 @@
 *[Инопланетный энергоблок]: alienpowercell
 *[энергоблоком]: alienpowercell
 *[энергоблок]: alienpowercell
-*[яйцо грязевого раптора]: mudraptoregg
-*[яйца грязевого раптора]: mudraptoregg
-*[яйца раптора]: mudraptoregg
+*[яйцо грязевого раптора]: smallmudraptoregg
+*[яйца грязевого раптора]: smallmudraptoregg
+*[яйца раптора]: smallmudraptoregg
 *[яйца велонацепса каликса]: huskeggsbasic
 *[Сырые яйца хаска]: huskeggsbasic
 *[сырые яйца]: huskeggsbasic
@@ -124,3 +124,5 @@
 *[зачинщиками]: isinstigator
 *[Ползуны]: crawler
 *[ползунов]: crawler
+*[псиложаба]: psilotoad
+*[оранжевый парень]: orangeboy
