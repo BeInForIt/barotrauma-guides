@@ -122,3 +122,5 @@
 *[зачинщика]: isinstigator
 *[зачинщиком]: isinstigator
 *[зачинщиками]: isinstigator
+*[Ползуны]: crawler
+*[ползунов]: crawler
